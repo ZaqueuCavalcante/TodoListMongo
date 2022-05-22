@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fir9e0kyfpItAt7hXBraW3XXF7n0B8Esl+HyPpi+EFw=",
+  "Source": "todo_list_mongo",
+  "BasePath": "_content/todo_list_mongo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
